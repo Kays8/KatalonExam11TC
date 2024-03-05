@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 118.0.0.0,,,05-03-2024 09:40:33,05-03-2024 09:40:52,19.397s,PASSED
+,,,,,,,
+Test Cases/TC01,Chrome 118.0.0.0,,,05-03-2024 09:40:33,05-03-2024 09:40:44,10.596s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 09:40:33,05-03-2024 09:40:34,1.231s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 118.0.0.0,,,05-03-2024 09:40:34,05-03-2024 09:40:35,0.666s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""npru"")",Chrome 118.0.0.0,,,05-03-2024 09:40:35,05-03-2024 09:40:36,0.750s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_NPRU""))",Chrome 118.0.0.0,,,05-03-2024 09:40:36,05-03-2024 09:40:37,0.702s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 09:40:37,05-03-2024 09:40:37,0.749s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 09:40:37,05-03-2024 09:40:38,0.538s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 118.0.0.0,,,05-03-2024 09:40:38,05-03-2024 09:40:39,0.832s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""npru"")",Chrome 118.0.0.0,,,05-03-2024 09:40:39,05-03-2024 09:40:39,0.595s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_NPRU""))",Chrome 118.0.0.0,,,05-03-2024 09:40:39,05-03-2024 09:40:40,0.673s,PASSED
+"click(findTestObject(""Object Repository/Page_npru -  Google/h3_Nakhon Pathom Rajabhat""))",Chrome 118.0.0.0,,,05-03-2024 09:40:40,05-03-2024 09:40:44,3.596s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 09:40:44,05-03-2024 09:40:44,0.070s,PASSED
+,,,,,,,
+Test Cases/TC02,Chrome 118.0.0.0,,,05-03-2024 09:40:44,05-03-2024 09:40:52,8.662s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 09:40:44,05-03-2024 09:40:44,0.536s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 118.0.0.0,,,05-03-2024 09:40:44,05-03-2024 09:40:45,0.899s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""Benz"")",Chrome 118.0.0.0,,,05-03-2024 09:40:45,05-03-2024 09:40:46,0.589s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_benz""))",Chrome 118.0.0.0,,,05-03-2024 09:40:46,05-03-2024 09:40:46,0.633s,PASSED
+"click(findTestObject(""Object Repository/Page_benz -  Google/span_-""))",Chrome 118.0.0.0,,,05-03-2024 09:40:46,05-03-2024 09:40:52,5.864s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 09:40:52,05-03-2024 09:40:52,0.079s,PASSED

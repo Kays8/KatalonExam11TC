@@ -1,0 +1,83 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TCS01,Chrome 118.0.0.0,,,05-03-2024 12:14:50,05-03-2024 12:15:17,26.033s,PASSED
+,,,,,,,
+Test Cases/TC01,Chrome 118.0.0.0,,,05-03-2024 12:14:51,05-03-2024 12:14:54,3.636s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 12:14:51,05-03-2024 12:14:52,1.182s,PASSED
+"navigateToUrl(""http://127.0.0.1/customer/form.html"")",Chrome 118.0.0.0,,,05-03-2024 12:14:52,05-03-2024 12:14:52,0.081s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_first-name""), ""johnjohn"")",Chrome 118.0.0.0,,,05-03-2024 12:14:52,05-03-2024 12:14:53,0.649s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_last-name""), ""canonc"")",Chrome 118.0.0.0,,,05-03-2024 12:14:53,05-03-2024 12:14:53,0.578s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_age""), ""2"")",Chrome 118.0.0.0,,,05-03-2024 12:14:53,05-03-2024 12:14:54,0.541s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_sub""))",Chrome 118.0.0.0,,,05-03-2024 12:14:54,05-03-2024 12:14:54,0.323s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 12:14:54,05-03-2024 12:14:54,0.100s,PASSED
+,,,,,,,
+Test Cases/TC02,Chrome 118.0.0.0,,,05-03-2024 12:14:54,05-03-2024 12:14:57,2.799s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 12:14:54,05-03-2024 12:14:55,0.563s,PASSED
+"navigateToUrl(""http://127.0.0.1/customer/form.html"")",Chrome 118.0.0.0,,,05-03-2024 12:14:55,05-03-2024 12:14:55,0.063s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_first-name""), ""Johnj"")",Chrome 118.0.0.0,,,05-03-2024 12:14:55,05-03-2024 12:14:56,0.594s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_last-name""), ""canoncanoncano"")",Chrome 118.0.0.0,,,05-03-2024 12:14:56,05-03-2024 12:14:56,0.566s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_age""), ""149"")",Chrome 118.0.0.0,,,05-03-2024 12:14:56,05-03-2024 12:14:57,0.561s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_sub""))",Chrome 118.0.0.0,,,05-03-2024 12:14:57,05-03-2024 12:14:57,0.317s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 12:14:57,05-03-2024 12:14:57,0.075s,PASSED
+,,,,,,,
+Test Cases/TC03,Chrome 118.0.0.0,,,05-03-2024 12:14:57,05-03-2024 12:15:00,2.837s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 12:14:57,05-03-2024 12:14:58,0.579s,PASSED
+"navigateToUrl(""http://127.0.0.1/customer/form.html"")",Chrome 118.0.0.0,,,05-03-2024 12:14:58,05-03-2024 12:14:58,0.056s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_first-name""), ""johnjohnjohnjo"")",Chrome 118.0.0.0,,,05-03-2024 12:14:58,05-03-2024 12:14:58,0.640s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_last-name""), ""canoncan"")",Chrome 118.0.0.0,,,05-03-2024 12:14:58,05-03-2024 12:14:59,0.597s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_age""), ""75"")",Chrome 118.0.0.0,,,05-03-2024 12:14:59,05-03-2024 12:14:59,0.533s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_sub""))",Chrome 118.0.0.0,,,05-03-2024 12:14:59,05-03-2024 12:15:00,0.303s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 12:15:00,05-03-2024 12:15:00,0.083s,PASSED
+,,,,,,,
+Test Cases/TC04,Chrome 118.0.0.0,,,05-03-2024 12:15:00,05-03-2024 12:15:03,2.737s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 12:15:00,05-03-2024 12:15:01,0.587s,PASSED
+"navigateToUrl(""http://127.0.0.1/customer/form.html"")",Chrome 118.0.0.0,,,05-03-2024 12:15:01,05-03-2024 12:15:01,0.064s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_first-name""), ""johnjo"")",Chrome 118.0.0.0,,,05-03-2024 12:15:01,05-03-2024 12:15:01,0.584s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_last-name""), ""canoncanoncanon"")",Chrome 118.0.0.0,,,05-03-2024 12:15:01,05-03-2024 12:15:02,0.549s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_age""), ""150"")",Chrome 118.0.0.0,,,05-03-2024 12:15:02,05-03-2024 12:15:02,0.536s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_sub""))",Chrome 118.0.0.0,,,05-03-2024 12:15:02,05-03-2024 12:15:03,0.286s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 12:15:03,05-03-2024 12:15:03,0.081s,PASSED
+,,,,,,,
+Test Cases/TC05,Chrome 118.0.0.0,,,05-03-2024 12:15:03,05-03-2024 12:15:05,2.689s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 12:15:03,05-03-2024 12:15:03,0.563s,PASSED
+"navigateToUrl(""http://127.0.0.1/customer/form.html"")",Chrome 118.0.0.0,,,05-03-2024 12:15:03,05-03-2024 12:15:03,0.054s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_first-name""), ""johnjohnjohnjoh"")",Chrome 118.0.0.0,,,05-03-2024 12:15:03,05-03-2024 12:15:04,0.567s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_last-name""), ""canoncan"")",Chrome 118.0.0.0,,,05-03-2024 12:15:04,05-03-2024 12:15:04,0.540s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_age""), ""75"")",Chrome 118.0.0.0,,,05-03-2024 12:15:04,05-03-2024 12:15:05,0.545s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_sub""))",Chrome 118.0.0.0,,,05-03-2024 12:15:05,05-03-2024 12:15:05,0.297s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 12:15:05,05-03-2024 12:15:05,0.077s,PASSED
+,,,,,,,
+Test Cases/TC06,Chrome 118.0.0.0,,,05-03-2024 12:15:05,05-03-2024 12:15:08,2.802s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 12:15:05,05-03-2024 12:15:06,0.569s,PASSED
+"navigateToUrl(""http://127.0.0.1/customer/form.html"")",Chrome 118.0.0.0,,,05-03-2024 12:15:06,05-03-2024 12:15:06,0.062s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_first-name""), ""john"")",Chrome 118.0.0.0,,,05-03-2024 12:15:06,05-03-2024 12:15:07,0.600s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_last-name""), ""cannoncan"")",Chrome 118.0.0.0,,,05-03-2024 12:15:07,05-03-2024 12:15:07,0.565s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_age""), ""75"")",Chrome 118.0.0.0,,,05-03-2024 12:15:07,05-03-2024 12:15:08,0.554s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_sub""))",Chrome 118.0.0.0,,,05-03-2024 12:15:08,05-03-2024 12:15:08,0.323s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 12:15:08,05-03-2024 12:15:08,0.085s,PASSED
+,,,,,,,
+Test Cases/TC08,Chrome 118.0.0.0,,,05-03-2024 12:15:08,05-03-2024 12:15:11,2.827s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 12:15:08,05-03-2024 12:15:09,0.623s,PASSED
+"navigateToUrl(""http://127.0.0.1/customer/form.html"")",Chrome 118.0.0.0,,,05-03-2024 12:15:09,05-03-2024 12:15:09,0.065s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_first-name""), ""johnjohn"")",Chrome 118.0.0.0,,,05-03-2024 12:15:09,05-03-2024 12:15:09,0.594s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_last-name""), ""cano"")",Chrome 118.0.0.0,,,05-03-2024 12:15:09,05-03-2024 12:15:10,0.570s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_age""), ""75"")",Chrome 118.0.0.0,,,05-03-2024 12:15:10,05-03-2024 12:15:11,0.541s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_sub""))",Chrome 118.0.0.0,,,05-03-2024 12:15:11,05-03-2024 12:15:11,0.315s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 12:15:11,05-03-2024 12:15:11,0.075s,PASSED
+,,,,,,,
+Test Cases/TC10,Chrome 118.0.0.0,,,05-03-2024 12:15:11,05-03-2024 12:15:14,2.789s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 12:15:11,05-03-2024 12:15:12,0.591s,PASSED
+"navigateToUrl(""http://127.0.0.1/customer/form.html"")",Chrome 118.0.0.0,,,05-03-2024 12:15:12,05-03-2024 12:15:12,0.066s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_first-name""), ""johnjohn"")",Chrome 118.0.0.0,,,05-03-2024 12:15:12,05-03-2024 12:15:12,0.602s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_last-name""), ""canoncan"")",Chrome 118.0.0.0,,,05-03-2024 12:15:12,05-03-2024 12:15:13,0.562s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_age""), ""0"")",Chrome 118.0.0.0,,,05-03-2024 12:15:13,05-03-2024 12:15:13,0.548s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_sub""))",Chrome 118.0.0.0,,,05-03-2024 12:15:13,05-03-2024 12:15:14,0.324s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 12:15:14,05-03-2024 12:15:14,0.054s,PASSED
+,,,,,,,
+Test Cases/TC11,Chrome 118.0.0.0,,,05-03-2024 12:15:14,05-03-2024 12:15:17,2.778s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 12:15:14,05-03-2024 12:15:14,0.582s,PASSED
+"navigateToUrl(""http://127.0.0.1/customer/form.html"")",Chrome 118.0.0.0,,,05-03-2024 12:15:14,05-03-2024 12:15:14,0.056s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_first-name""), ""johnjohn"")",Chrome 118.0.0.0,,,05-03-2024 12:15:14,05-03-2024 12:15:15,0.579s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_last-name""), ""canoncan"")",Chrome 118.0.0.0,,,05-03-2024 12:15:15,05-03-2024 12:15:16,0.576s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_age""), ""151"")",Chrome 118.0.0.0,,,05-03-2024 12:15:16,05-03-2024 12:15:16,0.563s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Detail Form/input_Customer Detail Form_sub""))",Chrome 118.0.0.0,,,05-03-2024 12:15:16,05-03-2024 12:15:16,0.302s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 12:15:16,05-03-2024 12:15:17,0.077s,PASSED

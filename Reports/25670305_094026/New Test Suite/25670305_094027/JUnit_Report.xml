@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="19.397" tests="2" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="2" failures="0" errors="0" time="19.397" skipped="0" timestamp="05-03-2024T09:40:33" hostname="Administrator - 10.53.16.156" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Administrator\\Katalon Studio\\My First Web UI Project\\Reports\\25670305_094026\\New Test Suite\\25670305_094027"/>
+         <property name="logFiles" value="C:\\Users\\Administrator\\Katalon Studio\\My First Web UI Project\\Reports\\25670305_094026\\New Test Suite\\25670305_094027\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Administrator - 10.53.16.156"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.3.1.212"/>
+         <property name="browser" value="Chrome 118.0.0.0"/>
+         <property name="hostAddress" value="10.53.16.156"/>
+         <property name="sessionId" value="74e088e7a96486a0c280fc502630eb01"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC01" time="10.596" classname="Test Cases/TC01" status="PASSED">
+         <system-out><![CDATA[05-03-2024T09:40:33 - [TEST_CASE][PASSED] - Test Cases/TC01: Test Cases/TC01
+
+05-03-2024T09:40:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-03-2024T09:40:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-03-2024T09:40:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-03-2024T09:40:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-03-2024T09:40:34 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+05-03-2024T09:40:35 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+05-03-2024T09:40:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "npru"): Text 'npru' is set on object 'Object Repository/Page_Google/textarea__q'
+
+05-03-2024T09:40:36 - [MESSAGE][PASSED] - Text 'npru' is set on object 'Object Repository/Page_Google/textarea__q'
+
+05-03-2024T09:40:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_NPRU")): Object: 'Object Repository/Page_Google/span_NPRU' is clicked on
+
+05-03-2024T09:40:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_NPRU' is clicked on
+
+05-03-2024T09:40:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-03-2024T09:40:37 - [MESSAGE][PASSED] - Browser is closed
+
+05-03-2024T09:40:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-03-2024T09:40:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-03-2024T09:40:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-03-2024T09:40:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-03-2024T09:40:38 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+05-03-2024T09:40:39 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+05-03-2024T09:40:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "npru"): Text 'npru' is set on object 'Object Repository/Page_Google/textarea__q'
+
+05-03-2024T09:40:39 - [MESSAGE][PASSED] - Text 'npru' is set on object 'Object Repository/Page_Google/textarea__q'
+
+05-03-2024T09:40:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_NPRU")): Object: 'Object Repository/Page_Google/span_NPRU' is clicked on
+
+05-03-2024T09:40:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_NPRU' is clicked on
+
+05-03-2024T09:40:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_npru -  Google/h3_Nakhon Pathom Rajabhat")): Object: 'Object Repository/Page_npru -  Google/h3_Nakhon Pathom Rajabhat' is clicked on
+
+05-03-2024T09:40:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_npru -  Google/h3_Nakhon Pathom Rajabhat' is clicked on
+
+05-03-2024T09:40:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-03-2024T09:40:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC02" time="8.662" classname="Test Cases/TC02" status="PASSED">
+         <system-out><![CDATA[05-03-2024T09:40:44 - [TEST_CASE][PASSED] - Test Cases/TC02: Test Cases/TC02
+
+05-03-2024T09:40:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-03-2024T09:40:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-03-2024T09:40:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-03-2024T09:40:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-03-2024T09:40:44 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+05-03-2024T09:40:45 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+05-03-2024T09:40:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "Benz"): Text 'Benz' is set on object 'Object Repository/Page_Google/textarea__q'
+
+05-03-2024T09:40:46 - [MESSAGE][PASSED] - Text 'Benz' is set on object 'Object Repository/Page_Google/textarea__q'
+
+05-03-2024T09:40:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_benz")): Object: 'Object Repository/Page_Google/span_benz' is clicked on
+
+05-03-2024T09:40:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_benz' is clicked on
+
+05-03-2024T09:40:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_benz -  Google/span_-")): Object: 'Object Repository/Page_benz -  Google/span_-' is clicked on
+
+05-03-2024T09:40:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_benz -  Google/span_-' is clicked on
+
+05-03-2024T09:40:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-03-2024T09:40:52 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[05-03-2024T09:40:33 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/TC02]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

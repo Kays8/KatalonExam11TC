@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 118.0.0.0,,,05-03-2024 09:37:58,05-03-2024 09:38:10,12.689s,PASSED
+,,,,,,,
+Test Cases/TC02,Chrome 118.0.0.0,,,05-03-2024 09:37:58,05-03-2024 09:38:07,9.408s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 09:37:58,05-03-2024 09:37:59,1.306s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 118.0.0.0,,,05-03-2024 09:37:59,05-03-2024 09:38:00,0.879s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""Benz"")",Chrome 118.0.0.0,,,05-03-2024 09:38:00,05-03-2024 09:38:01,0.956s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_benz""))",Chrome 118.0.0.0,,,05-03-2024 09:38:01,05-03-2024 09:38:02,0.658s,PASSED
+"click(findTestObject(""Object Repository/Page_benz -  Google/span_-""))",Chrome 118.0.0.0,,,05-03-2024 09:38:02,05-03-2024 09:38:07,5.328s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 09:38:07,05-03-2024 09:38:07,0.096s,PASSED
+,,,,,,,
+Test Cases/TC01,Chrome 118.0.0.0,,,05-03-2024 09:38:07,05-03-2024 09:38:10,3.152s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,05-03-2024 09:38:07,05-03-2024 09:38:08,0.522s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 118.0.0.0,,,05-03-2024 09:38:08,05-03-2024 09:38:09,0.860s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""npru"")",Chrome 118.0.0.0,,,05-03-2024 09:38:09,05-03-2024 09:38:09,0.900s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_NPRU""))",Chrome 118.0.0.0,,,05-03-2024 09:38:09,05-03-2024 09:38:10,0.753s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,05-03-2024 09:38:10,05-03-2024 09:38:10,0.067s,PASSED
